@@ -60,6 +60,7 @@ On the ruby installer website, just click either of the download buttons.  This 
 
 Well will want to download the latest version of Ruby + Devkit.  The Devkit installs useful add-ons which we can find helpful in our website building. Click the version link to start downloading. Take care on choosing the right x**-bit for your current system.  
 ![Ruby Download](Images/RubyVersion.png)
+
 You can find this information in your windows machine by going to ##Settings>About under device specifications.
 
 ![System Info](Images/SystemType.png)
