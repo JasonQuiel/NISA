@@ -108,5 +108,7 @@ next run the command - bundle add webrick
 Now hopefully all you need to do is run - bundle exec jekyll serve --trace
 
 ![Last one](Images/lastone.png)
+
 The final results.
+
 ![The Final](Images/finalproduct.png)
